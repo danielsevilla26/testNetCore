@@ -1,0 +1,12 @@
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.deps.json
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.runtimeconfig.json
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.runtimeconfig.dev.json
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.dll
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.pdb
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.csprojAssemblyReference.cache
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.AssemblyInfoInputs.cache
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.AssemblyInfo.cs
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.csproj.CoreCompileInputs.cache
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.dll
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.pdb
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.Client.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.dacpac
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.dll
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.pdb
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.sqlprojAssemblyReference.cache
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\Model.xml
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\refactor.xml
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\postdeploy.sql
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\predeploy.sql
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.dll
+E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.pdb
