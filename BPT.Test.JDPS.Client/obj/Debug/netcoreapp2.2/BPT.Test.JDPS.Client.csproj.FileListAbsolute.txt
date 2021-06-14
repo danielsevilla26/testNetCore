@@ -1,0 +1,12 @@
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.deps.json
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.runtimeconfig.json
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.runtimeconfig.dev.json
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.AssemblyInfoInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.AssemblyInfo.cs
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.csproj.CoreCompileInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.genruntimeconfig.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Client\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Client.csprojAssemblyReference.cache

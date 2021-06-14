@@ -8,3 +8,9 @@ E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\predeploy.sql
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.dll
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.dacpac
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\bin\Debug\BPT.Test.JDPS.Database.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.sqlprojAssemblyReference.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Database\obj\Debug\BPT.Test.JDPS.Database.pdb

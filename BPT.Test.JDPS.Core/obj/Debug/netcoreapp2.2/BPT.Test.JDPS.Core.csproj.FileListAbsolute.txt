@@ -1,0 +1,9 @@
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.deps.json
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\bin\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.AssemblyInfoInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.AssemblyInfo.cs
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Core\obj\Debug\netcoreapp2.2\BPT.Test.JDPS.Core.csprojAssemblyReference.cache

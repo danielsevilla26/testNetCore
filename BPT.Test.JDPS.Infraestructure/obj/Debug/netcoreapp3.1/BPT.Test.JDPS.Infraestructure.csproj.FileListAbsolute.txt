@@ -1,0 +1,12 @@
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\bin\Debug\netcoreapp3.1\BPT.Test.JDPS.Core.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.csprojAssemblyReference.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.AssemblyInfo.cs
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\bin\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.deps.json
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\bin\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\bin\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\bin\Debug\netcoreapp3.1\BPT.Test.JDPS.Core.pdb
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.csproj.CopyComplete
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.Infraestructure\obj\Debug\netcoreapp3.1\BPT.Test.JDPS.Infraestructure.pdb

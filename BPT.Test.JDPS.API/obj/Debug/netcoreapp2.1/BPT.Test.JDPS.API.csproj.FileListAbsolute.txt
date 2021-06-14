@@ -33,3 +33,11 @@ E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.API\obj\D
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.pdb
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.genruntimeconfig.cache
 E:\Users\jdperezs\Documents\ReposOficiales\BPT.Test.JDPS\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.csproj.CopyComplete
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.csprojAssemblyReference.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.AssemblyInfoInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.AssemblyInfo.cs
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.csproj.CoreCompileInputs.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.RazorAssemblyInfo.cache
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.RazorAssemblyInfo.cs
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.dll
+D:\Proyectos\testNetCore\BPT.Test.JDPS.API\obj\Debug\netcoreapp2.1\BPT.Test.JDPS.API.pdb

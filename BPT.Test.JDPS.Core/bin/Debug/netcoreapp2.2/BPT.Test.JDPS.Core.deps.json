@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "BPT.Test.JDPS.Core/1.0.0": {
+        "runtime": {
+          "BPT.Test.JDPS.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BPT.Test.JDPS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
